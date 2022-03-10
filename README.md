@@ -11,9 +11,9 @@ Running project
 
 Resources
 ----------
-[http://localhost:8080](http://localhost:8080)  home page - available for both authorised and non-authorized users
-[http://localhost:8080/login](http://localhost:8080/login) - enter user/user or admin/admin
-[http://localhost:8080/logout](http://localhost:8080/logout) - sign out
-[http://localhost:8080/logout](http://localhost:8080/admin) - available only for admin
-[http://localhost:8080/logout](http://localhost:8080/user) - available for both admin and user
+[http://localhost:8080](http://localhost:8080)  home page - available for both authorised and non-authorized users  
+[http://localhost:8080/login](http://localhost:8080/login) - enter user/user or admin/admin  
+[http://localhost:8080/logout](http://localhost:8080/logout) - sign out  
+[http://localhost:8080/logout](http://localhost:8080/admin) - available only for admin  
+[http://localhost:8080/logout](http://localhost:8080/user) - available for both admin and user  
 
