@@ -4,10 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ru.ogneva</groupId>
-	<artifactId>spring-security</artifactId>
+	<artifactId>secured-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-security</name>
-	<description>Spring-security project for Spring Security</description>
+	<name>secured-service</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

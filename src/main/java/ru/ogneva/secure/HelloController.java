@@ -1,4 +1,4 @@
-package ru.ogneva.springsecurity;
+package ru.ogneva.secure;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -6,8 +6,17 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloController {
 
-    @GetMapping("/hello")
+    @GetMapping("/")
     public String hello() {
         return "Hello";
     }
+    @GetMapping("/user")
+    public String user() {
+        return "User";
+    }
+    @GetMapping("/admin")
+    public String admin() {
+        return "Admin";
+    }
+
 }

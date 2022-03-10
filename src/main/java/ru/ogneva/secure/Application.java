@@ -1,4 +1,4 @@
-package ru.ogneva.springsecurity;
+package ru.ogneva.secure;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
